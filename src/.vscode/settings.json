@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/shubham/Documents/ecommerce/venv/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.banditEnabled": true
+}
